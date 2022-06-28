@@ -1,0 +1,44 @@
+html{
+  display:flex;
+  align-items: center;
+}
+  h1 {
+  text-align: center;
+   font-size: 54px;
+   color:#6b3000;
+}
+h2 {
+  color:#d6917a;
+  font-family:"consolas"
+}
+
+body{
+  background-color:#f2e3e6;
+  display:flex;
+  flex-direction:column;
+  max-height: 100px;
+  max-width: 1000px;
+  margin:auto;
+  border:solid;
+}
+
+img{
+  position:absolut;
+  border-radius: 50px;
+  max-width: 100%;
+  display: block;
+  margin-left:auto;
+  margin-right: auto;
+  width: 600px;
+{
+
+iframe{
+  height: 400px;
+  width: 600px;
+}
+  
+button{
+ background: #be6060;
+color: #c8c8a3;
+}
+
